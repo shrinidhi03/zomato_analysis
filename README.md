@@ -9,8 +9,8 @@ This project explores a Zomato dataset to identify popular cuisines, understand 
 
 ## Contents
 
-*   `zomato project.ipynb`: Jupyter Notebook with the analysis.
-*   `data/`: (Optional) Zomato dataset. *See "Obtain the Data" below.*
+*   `zomato project.ipynb`: Jupyter Notebook with the analysis
+*   `data/`:  Zomato data
 *   `README.md`: This file.
 
 ## Getting Started
