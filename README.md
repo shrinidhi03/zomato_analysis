@@ -7,13 +7,13 @@ This repository contains a Python/JupyterLab project analyzing Zomato restaurant
 
 This project explores a Zomato dataset to identify popular cuisines, understand the relationship between restaurant features (cost, location, ratings), and analyze general usage patterns.
 
-Technologies Used
+## Technologies Used
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
+*   Python
+*   JupyterLab
+*   Pandas
+*   Matplotlib
+*   Seaborn
 
 ## Contents
 
